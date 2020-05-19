@@ -1,0 +1,27 @@
+/*
+Theme Name: BlogBeize
+Theme URI: https://IslamHossain59.com/DwinsTeam/
+Author: DwinsTeam
+Author URI: https://IslamHossain59.com/DwinsTeam/
+Description: Romoni is a Blog Theme for regular update post to a blog. the main features of Romoni is to show Female helps guide to serve their family, childrens and Households every topics. Romoni support to the Female, Girls and Womens Beauty Tips also. 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://IslamHossain59.com/DwinsTeam/
+Text Domain: DT_B_Beize
+Tags: 
+*/
+.pagination .nav-links{}
+.pagination .nav-links span{
+	padding:8px 12px; font-size:15px;  
+	color:black; font-weight: bold !important; 	
+}
+.pagination .nav-links a{
+	padding:8px 12px; font-size:14px;  
+	color:white; background: black !important; font-weight: bold !important; 
+}
+.pagination .nav-links a:hover{
+	padding:8px 12px; font-size:14px;  
+	color:black; background: #F5F5DC !important; font-weight: bold !important; 
+	transition-duration: 1s; 
+}
+.btn-msg{ background: #30302B !important;  }

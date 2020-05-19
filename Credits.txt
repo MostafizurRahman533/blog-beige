@@ -1,0 +1,5 @@
+1. bootstrap version - 3
+2. font-awesome
+3. google font
+4. wow.js 
+5. 
